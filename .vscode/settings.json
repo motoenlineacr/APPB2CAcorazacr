@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "*.xml": "xml"
-    },
-    "xml.symbols.enabled": false,
-    "python.languageServer": "None",
-    "Odoo.selectedProfile": "Disabled"
-}
