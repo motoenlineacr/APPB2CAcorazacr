@@ -1,4 +1,4 @@
-package com.example.motostop
+package acorazacr.com
 
 import io.flutter.embedding.android.FlutterActivity
 
